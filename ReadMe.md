@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ❤️Apaixonado por tecnologia<br>📚Estudando Front-end e Python<br>🗣️Inglês básico
 
 
