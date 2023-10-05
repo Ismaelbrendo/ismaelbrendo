@@ -1,5 +1,5 @@
 #  About Me:
-❤️Apaixonado por tecnologia<br>📚Estudando Front-end e Python<br>🗣️Inglês básico
+❤️Apaixonado por tecnologia<br>📚Estudando Front-end e Python<br>
 
 
 ## 🌐 Socials:
