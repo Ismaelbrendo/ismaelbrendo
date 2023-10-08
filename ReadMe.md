@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤️Apaixonado por tecnologia<br>📚Estudando Front-end 
+❤️Apaixonado por tecnologia<br>📚Front-end 
 
 
 ## 🌐 Socials:
